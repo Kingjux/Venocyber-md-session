@@ -28,7 +28,7 @@ const {
 } = require("node:fs/promises")
 router.get('/', async (req, res) => {
 	const id = makeid();
-	async function VENOCYBER_MD_BOT_PAIRING_CODE() {
+	async function VENOCYBER_MD_PAIRING_CODE() {
 		const {
 			state,
 			saveCreds
@@ -58,8 +58,8 @@ router.get('/', async (req, res) => {
 				   let b64data = Buffer.from(data).toString('base64');
 				   let session = await Qr_Code_By_Venocyber_Tech.sendMessage(Qr_Code_By_Venocyber_Tech.user.id, { text: 'VENOCYBER-MD-BOT;;;' + b64data });
 	
-				   let VENOCYBER_MD_BOT_TEXT = `
-*_Qr Code By Gifted Tech_*
+				   let VENOCYBER_MD_TEXT = `
+*_Qr Code By Venocyber Tech_*
 *_Made With 🤍_*
 	
 _Don't Forget To Give Star To My Repo_`
@@ -72,7 +72,7 @@ _Don't Forget To Give Star To My Repo_`
 					return await removeFile("temp/" + id);
 				} else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
 					await delay(10000);
-					VENOCYBER_MD_MD_QR_CODE();
+					VENOCYBER_MD_QR_CODE();
 				}
 			});
 		} catch (err) {
@@ -85,6 +85,6 @@ _Don't Forget To Give Star To My Repo_`
 			await removeFile("temp/" + id);
 		}
 	}
-	return await VENOCYBER_MD_BOT_QR_CODE()
+	return await VENOCYBER_MD_QR_CODE()
 });
 module.exports = router
