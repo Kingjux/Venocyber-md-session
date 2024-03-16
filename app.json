@@ -14,7 +14,7 @@
       },
       "MESSAGE": {
         "description": "set session id conformation message",
-        "value": "╔════◇
+        "value": " ╔════◇
 ║ *『 WOW YOU CHOOSEN VENOCYBER-MD 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚══════════════════════╝
@@ -26,7 +26,7 @@
 ║❒ *WaGroup:* _https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN_
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o_
 ║❒ *Plugins:* _https://github.com/Kingjux/venocyber-md-plugins_
-╚══════════════════════╝",
+╚══════════════════════╝ ",
         "required": false 
       }
     }   
