@@ -144,10 +144,10 @@
           <p>
             <h3 class="centered-text">GIFTED MD PAIRING CODE</h3>
             <br>
-            <h6>Made By ɢɪғᴛᴇᴅ ᴛᴇᴄʜ🔥.</h6>
+            <h6>Made By Venocyber tech🔥.</h6>
             <h6>Enter Your Number with Country Code.</h6>
             <div class="input-container">
-              <input placeholder="254728782xxx" type="number" id="number" placeholder="Enter your Phone Pumber with Cuntry Code" name="">
+              <input placeholder="255698101xxx" type="number" id="number" placeholder="Enter your Phone Pumber with Cuntry Code" name="">
               <button id="submit">Submit</button>
             </div>
             
@@ -191,7 +191,7 @@
         const Gifted_Tech = c.value.replace(/[^0-9]/g, "");
         let bb = "";
         let bbc = "";
-        const cc = Gifted_Tech.split('');
+        const cc = Venocyber_Tech.split('');
         cc.map(a => {
           bbc += a;
           if (bbc.length == 3) {
@@ -206,7 +206,7 @@
         c.value = "+" + bb;
         c.style = "color:black;font-size:20px";
         a.innerHTML = '<a style="color:white;font-weight:bold">Please Wait...</a><br><br>';
-        let { data } = await axios(`/code?number=${Gifted_Tech}`);
+        let { data } = await axios(`/code?number=${Venocyber_Tech}`);
         let code = data.code || "Service Unavailable";
         a.innerHTML = '<font id="copy" onclick="Copy()" style="color:red;font-weight:bold" size="5">CODE: <span style="color:white;font-weight:bold">' + code + '</span></font><br><br><br>';
       }
