@@ -72,7 +72,7 @@ ______________________________________
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _youtube.com/@JASTINMTEWA-vn9pl_
-║❒ *Owner:* _https://wa.me/255698101622_
+║❒ *Owner:* _https://wa.me/message/MSSH2UWWOQBDL1_
 ║❒ *Repo:* _https://github.com/Kingjux/venocyber-md_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN_
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o_
@@ -81,12 +81,12 @@ ______________________________________
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
-	 await Qr_Code_By_France_King.sendMessage(Qr_Code_By_Venocyber_Tech.user.id,{text:Venocyber_MD_TEXT},{quoted:session})
+	 await Qr_Code_By_Venocyber_Tech.sendMessage(Qr_Code_By_Venocyber_Tech.user.id,{text:Venocyber_MD_TEXT},{quoted:session})
 
 
 
 					await delay(100);
-					await Qr_Code_By_France_King.ws.close();
+					await Qr_Code_By_Venocyber_Tech.ws.close();
 					return await removeFile("temp/" + id);
 				} else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
 					await delay(10000);
