@@ -62,17 +62,21 @@ router.get('/', async (req, res) => {
 *_Qr Code By Venocyber Tech_*
 *_Made With 🤍_*
 ______________________________________
+*_Pair Code Connected by Venocyber Tech_*
+*_Made With 🤍_*
+______________________________________
 ╔════◇
-║ *『 WOW YOU CHOOSEN FLASH-MD 』*
+║ *『 WOW YOU CHOOSEN VENOCYBER-MD 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚══════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Instagram:* _https://instagram.com/venocyber_
+║❒ *Ytube:* _youtube.com/@JASTINMTEWA-vn9pl_
 ║❒ *Owner:* _https://wa.me/255698101622_
-║❒ *Repo:* _https://github.com/kingjux/Venocyber-Md_
+║❒ *Repo:* _https://github.com/Kingjux/venocyber-md_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN_
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o_
+║❒ *Plugins:* _https://github.com/Kingjux/venocyber-md-plugins_
 ╚══════════════════════╝ 
 _____________________________________
 	
