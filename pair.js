@@ -66,10 +66,10 @@ ______________________________________
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _youtube.com/@JASTINMTEWA-vn9pl_
-║❒ *Owner:* _https://wa.me/message/MSSH2UWWOQBDL1_
+║❒ *Owner:* _https://wa.me/message/A4QG2JZKBXFTN1_
 ║❒ *Repo:* _https://github.com/Kingjux/venocyber-md_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l_
 ║❒ *Plugins:* _https://github.com/Kingjux/venocyber-md-plugins_
 ╚══════════════════════╝ 
 _____________________________________
