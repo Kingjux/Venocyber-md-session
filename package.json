@@ -6,7 +6,7 @@
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node Venocyber-Tech.js"
+    "start": "node index.js"
   },
   "author": "VenocyberTech",
   "license": "GPL-3.0 license",
